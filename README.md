@@ -40,7 +40,14 @@ The 3.10.x kernel is [the minimum requirement](https://docs.docker.com/engine/in
 
 ### MacOS
 
-10.8 “Mountain Lion” or newer is required.
+Docker Desktop supports the latest three major macOS releases. Currently, the supported versions are:
+
+- **macOS 15 Sequoia** (latest)  
+- **macOS 14 Sonoma**  
+- **macOS 13 Ventura**  
+
+Older versions are not officially supported.
+
 
 ### Windows 10
 
